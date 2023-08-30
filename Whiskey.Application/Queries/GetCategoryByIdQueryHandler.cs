@@ -1,4 +1,5 @@
 ﻿using Whiskey.Application.Abstrations.Query.Interfaces;
+using Whiskey.Application.Queries.QueryModel;
 using Whiskey.Application.Queries.ResponseObjects;
 using Whiskey.Domain.Repository.Output;
 
